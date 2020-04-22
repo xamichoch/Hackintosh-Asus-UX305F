@@ -1,0 +1,185 @@
+44:313  15:221  Found BIOS RSDP at %p
+44:313  0:000  Printing ACPI tables from RSDP %p ...
+44:313  0:000   %p: 'RSD PTR Ã_ASUS_(°qÙ$', Rev: -784536665 (Acpi 2.0 or newer), Len: 36
+44:313  0:000    (Xsdt: %p, Rsdt: %p)
+44:313  0:000    %p: 'XSDTÔ', 'XSDT', Rev: -784536841, Len: 1
+44:313  0:000    %p: 'RSDT|', 'RSDT', Rev: -784536841, Len: 1
+44:313  0:000    Tables in Xsdt: 22
+44:313  0:000    0. %p: 'FACP', 'FACP', Rev: -784536841, Len: 5
+44:313  0:000        (Dsdt: D971B210, Facs: DA411F80, XDsdt: d971b210, XFacs: 0)
+44:313  0:000        %p: 'DSDTY”', 'DSDT', Rev: -784536985, Len: 2
+44:315  0:001        %p: 'FACS@', Ver: -784536821, Len: 2
+44:315  0:000    1. %p: 'APIC„', 'APIC', Rev: -784536841, Len: 3
+44:315  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -784536841, Len: 1
+44:315  0:000    3. %p: 'FIDTœ', 'FIDT', Rev: -784536841, Len: 1
+44:315  0:000    4. %p: 'ECDTÁ', 'ECDT', Rev: -784536841, Len: 1
+44:315  0:000    5. %p: 'MCFG<', 'MCFG', Rev: -784536841, Len: 1
+44:315  0:000    6. %p: 'HPET8', 'HPET', Rev: -784536841, Len: 1
+44:315  0:000    7. %p: 'SSDT', 'SSDT', Rev: -784536841, Len: 1
+44:315  0:000    8. %p: 'UEFIB', 'UEFI', Rev: -784536841, Len: 1
+44:315  0:000    9. %p: 'SSDT}', 'SSDT', Rev: -784536841, Len: 2
+44:315  0:000    10. %p: 'ASF! ', 'ASF!', Rev: -784536841, Len: 32
+44:315  0:000    11. %p: 'SSDT”', 'SSDT', Rev: -784536841, Len: 2
+44:315  0:000    12. %p: 'SSDTt', 'SSDT', Rev: -784536841, Len: 2
+44:315  0:000    13. %p: 'TPM24', 'TPM2', Rev: -784536841, Len: 3
+44:315  0:000    14. %p: 'SSDTA', 'SSDT', Rev: -784536841, Len: 1
+44:315  0:000    15. %p: 'SSDTí7', 'SSDT', Rev: -784536841, Len: 2
+44:315  0:000    16. %p: 'SSDT”', 'SSDT', Rev: -784536841, Len: 2
+44:315  0:000    17. %p: 'PCCTn', 'PCCT', Rev: -784536841, Len: 5
+44:315  0:000    18. %p: 'SSDTÄ
+', 'SSDT', Rev: -784536841, Len: 2
+44:315  0:000    19. %p: 'SSDT}f', 'SSDT', Rev: -784536841, Len: 2
+44:315  0:000    20. %p: 'BGRT8', 'BGRT', Rev: -784536841, Len: 1
+44:315  0:000    21. %p: 'MSDMU', 'MSDM', Rev: -784536841, Len: 3
+44:315  0:000    Tables in Rsdt: 22
+44:315  0:000    0. %p: 'FACP„', 'FACP', Rev: -784536841, Len: 2
+44:315  0:000        (Dsdt: D971B210, Facs: DA411F40)
+44:315  0:000        %p: 'DSDTY”', 'DSDT', Rev: -784536985, Len: 2
+44:316  0:001        %p: 'FACS@', Ver: -784536821, Len: 0
+44:316  0:000    1. %p: 'APIC„', 'APIC', Rev: -784536841, Len: 3
+44:316  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -784536841, Len: 1
+44:316  0:000    3. %p: 'FIDTœ', 'FIDT', Rev: -784536841, Len: 1
+44:316  0:000    4. %p: 'ECDTÁ', 'ECDT', Rev: -784536841, Len: 1
+44:316  0:000    5. %p: 'MCFG<', 'MCFG', Rev: -784536841, Len: 1
+44:316  0:000    6. %p: 'HPET8', 'HPET', Rev: -784536841, Len: 1
+44:316  0:000    7. %p: 'SSDT', 'SSDT', Rev: -784536841, Len: 1
+44:316  0:000    8. %p: 'UEFIB', 'UEFI', Rev: -784536841, Len: 1
+44:316  0:000    9. %p: 'SSDT}', 'SSDT', Rev: -784536841, Len: 2
+44:316  0:000    10. %p: 'ASF! ', 'ASF!', Rev: -784536841, Len: 32
+44:316  0:000    11. %p: 'SSDT”', 'SSDT', Rev: -784536841, Len: 2
+44:316  0:000    12. %p: 'SSDTt', 'SSDT', Rev: -784536841, Len: 2
+44:316  0:000    13. %p: 'TPM24', 'TPM2', Rev: -784536841, Len: 3
+44:316  0:000    14. %p: 'SSDTA', 'SSDT', Rev: -784536841, Len: 1
+44:316  0:000    15. %p: 'SSDTí7', 'SSDT', Rev: -784536841, Len: 2
+44:316  0:000    16. %p: 'SSDT”', 'SSDT', Rev: -784536841, Len: 2
+44:316  0:000    17. %p: 'PCCTn', 'PCCT', Rev: -784536841, Len: 5
+44:316  0:000    18. %p: 'SSDTÄ
+', 'SSDT', Rev: -784536841, Len: 2
+44:316  0:000    19. %p: 'SSDT}f', 'SSDT', Rev: -784536841, Len: 2
+44:316  0:000    20. %p: 'BGRT8', 'BGRT', Rev: -784536841, Len: 1
+44:316  0:000    21. %p: 'MSDMU', 'MSDM', Rev: -784536841, Len: 3
+44:316  0:000  Found UEFI Acpi 2.0 RSDP at %p
+44:316  0:000  Saving ACPI tables from RSDP %p to å’â„å‘â’å¿ƒåå•ÉŸë€¨$ ...
+44:316  0:000   %p: 'RSD PTR Ã_ASUS_(°qÙ$', Rev: -784536665 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+44:325  0:009    (Xsdt: %p, Rsdt: %p)
+44:325  0:000    %p: 'XSDTÔ', 'XSDT', Rev: -784536841, Len: 1 -> XSDT.aml
+44:334  0:008    %p: 'RSDT|', 'RSDT', Rev: -784536841, Len: 1 -> RSDT.aml
+44:342  0:008    Tables in Xsdt: 22
+44:342  0:000    0. %p: 'FACP', 'FACP', Rev: -784536841, Len: 5 -> FACP.aml
+44:350  0:008        (Dsdt: D971B210, Facs: DA411F80, XDsdt: d971b210, XFacs: 0)
+44:350  0:000        %p: 'DSDTY”', 'DSDT', Rev: -784536985, Len: 2 -> DSDT.aml
+44:372  0:022        %p: 'FACS@', Ver: -784536821, Len: 2 -> FACS.aml
+44:381  0:008    1. %p: 'APIC„', 'APIC', Rev: -784536841, Len: 3 -> APIC.aml
+44:389  0:008    2. %p: 'FPDTD', 'FPDT', Rev: -784536841, Len: 1 -> FPDT.aml
+44:397  0:008    3. %p: 'FIDTœ', 'FIDT', Rev: -784536841, Len: 1 -> FIDT.aml
+44:406  0:008    4. %p: 'ECDTÁ', 'ECDT', Rev: -784536841, Len: 1 -> ECDT.aml
+44:414  0:008    5. %p: 'MCFG<', 'MCFG', Rev: -784536841, Len: 1 -> MCFG.aml
+44:422  0:008    6. %p: 'HPET8', 'HPET', Rev: -784536841, Len: 1 -> HPET.aml
+44:431  0:008    7. %p: 'SSDT', 'SSDT', Rev: -784536841, Len: 1 -> SSDT-0-SataTabl.aml
+44:443  0:012    8. %p: 'UEFIB', 'UEFI', Rev: -784536841, Len: 1 -> UEFI.aml
+44:452  0:008    9. %p: 'SSDT}', 'SSDT', Rev: -784536841, Len: 2 -> SSDT-1-Ther_Rvp.aml
+44:461  0:008    10. %p: 'ASF! ', 'ASF!', Rev: -784536841, Len: 32 -> ASF!.aml
+44:470  0:008    11. %p: 'SSDT”', 'SSDT', Rev: -784536841, Len: 2 -> SSDT-2-Cpu0Ist.aml
+44:478  0:008    12. %p: 'SSDTt', 'SSDT', Rev: -784536841, Len: 2 -> SSDT-3-CpuSsdt.aml (Found hidden SSDT 4 pcs)
+44:487  0:008        * 3605099928: '', '˜ÞÖ', Rev: 0, Len: 0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+44:487  0:000        * 3634853400: 'SSDT', 'ApIst', Rev: 2, Len: 1450  53 53 44 54 AA 05 00 00 02 CE 50 6D 52 65 66 00 Internal length = 1450 -> SSDT-x3_0-ApIst.aml
+44:496  0:008        * 3634850072: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 979  53 53 44 54 D3 03 00 00 02 AE 50 6D 52 65 66 00 Internal length = 979 -> SSDT-x3_1-Cpu0Cst.aml
+44:507  0:011        * 3634859032: 'SSDT', 'ApCst', Rev: 2, Len: 281  53 53 44 54 19 01 00 00 02 EA 50 6D 52 65 66 00 Internal length = 281 -> SSDT-x3_2-ApCst.aml
+44:516  0:008  
+44:516  0:000    13. %p: 'TPM24', 'TPM2', Rev: -784536841, Len: 3 -> TPM2.aml
+44:525  0:008    14. %p: 'SSDTA', 'SSDT', Rev: -784536841, Len: 1 -> SSDT-4-PttSsdt.aml
+44:534  0:008    15. %p: 'SSDTí7', 'SSDT', Rev: -784536841, Len: 2 -> SSDT-5-DptfTabl.aml
+44:547  0:013    16. %p: 'SSDT”', 'SSDT', Rev: -784536841, Len: 2 -> SSDT-6-CppcTabl.aml
+44:559  0:012    17. %p: 'PCCTn', 'PCCT', Rev: -784536841, Len: 5 -> PCCT.aml
+44:572  0:012    18. %p: 'SSDTÄ
+', 'SSDT', Rev: -784536841, Len: 2 -> SSDT-7-Cpc_Tabl.aml
+44:590  0:017    19. %p: 'SSDT}f', 'SSDT', Rev: -784536841, Len: 2 -> SSDT-8-SaSsdt.aml
+44:605  0:015    20. %p: 'BGRT8', 'BGRT', Rev: -784536841, Len: 1 -> BGRT.aml
+44:620  0:015    21. %p: 'MSDMU', 'MSDM', Rev: -784536841, Len: 3 -> MSDM.aml
+44:635  0:014    Tables in Rsdt: 22
+44:635  0:000    0. %p: 'FACP„', 'FACP', Rev: -784536841, Len: 2 -> RSDT-FACP.aml
+44:651  0:015        (Dsdt: D971B210, Facs: DA411F40)
+44:651  0:000        %p: 'DSDTY”', 'DSDT', Rev: -784536985, Len: 2
+44:652  0:001        %p: 'FACS@', Ver: -784536821, Len: 0 -> RSDT-FACS.aml
+44:667  0:014    1. %p: 'APIC„', 'APIC', Rev: -784536841, Len: 3
+44:667  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -784536841, Len: 1
+44:667  0:000    3. %p: 'FIDTœ', 'FIDT', Rev: -784536841, Len: 1
+44:667  0:000    4. %p: 'ECDTÁ', 'ECDT', Rev: -784536841, Len: 1
+44:667  0:000    5. %p: 'MCFG<', 'MCFG', Rev: -784536841, Len: 1
+44:667  0:000    6. %p: 'HPET8', 'HPET', Rev: -784536841, Len: 1
+44:667  0:000    7. %p: 'SSDT', 'SSDT', Rev: -784536841, Len: 1
+44:667  0:000    8. %p: 'UEFIB', 'UEFI', Rev: -784536841, Len: 1
+44:667  0:000    9. %p: 'SSDT}', 'SSDT', Rev: -784536841, Len: 2
+44:667  0:000    10. %p: 'ASF! ', 'ASF!', Rev: -784536841, Len: 32
+44:667  0:000    11. %p: 'SSDT”', 'SSDT', Rev: -784536841, Len: 2
+44:667  0:000    12. %p: 'SSDTt', 'SSDT', Rev: -784536841, Len: 2
+44:667  0:000    13. %p: 'TPM24', 'TPM2', Rev: -784536841, Len: 3
+44:667  0:000    14. %p: 'SSDTA', 'SSDT', Rev: -784536841, Len: 1
+44:667  0:000    15. %p: 'SSDTí7', 'SSDT', Rev: -784536841, Len: 2
+44:667  0:000    16. %p: 'SSDT”', 'SSDT', Rev: -784536841, Len: 2
+44:667  0:000    17. %p: 'PCCTn', 'PCCT', Rev: -784536841, Len: 5
+44:667  0:000    18. %p: 'SSDTÄ
+', 'SSDT', Rev: -784536841, Len: 2
+44:667  0:000    19. %p: 'SSDT}f', 'SSDT', Rev: -784536841, Len: 2
+44:667  0:000    20. %p: 'BGRT8', 'BGRT', Rev: -784536841, Len: 1
+44:667  0:000    21. %p: 'MSDMU', 'MSDM', Rev: -784536841, Len: 3
+44:667  0:000  Found UEFI Acpi 1.0 RSDP at %p
+44:667  0:000  Printing ACPI tables from RSDP %p ...
+44:667  0:000   %p: 'RSD PTR Ã_ASUS_(°qÙ$', Rev: -784536665 (Acpi 2.0 or newer), Len: 36
+44:667  0:000    (Xsdt: %p, Rsdt: %p)
+44:667  0:000    %p: 'XSDTÔ', 'XSDT', Rev: -784536841, Len: 1
+44:667  0:000    %p: 'RSDT|', 'RSDT', Rev: -784536841, Len: 1
+44:667  0:000    Tables in Xsdt: 22
+44:667  0:000    0. %p: 'FACP', 'FACP', Rev: -784536841, Len: 5
+44:667  0:000        (Dsdt: D971B210, Facs: DA411F80, XDsdt: d971b210, XFacs: 0)
+44:667  0:000        %p: 'DSDTY”', 'DSDT', Rev: -784536985, Len: 2
+44:668  0:001        %p: 'FACS@', Ver: -784536821, Len: 2
+44:668  0:000    1. %p: 'APIC„', 'APIC', Rev: -784536841, Len: 3
+44:668  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -784536841, Len: 1
+44:668  0:000    3. %p: 'FIDTœ', 'FIDT', Rev: -784536841, Len: 1
+44:668  0:000    4. %p: 'ECDTÁ', 'ECDT', Rev: -784536841, Len: 1
+44:668  0:000    5. %p: 'MCFG<', 'MCFG', Rev: -784536841, Len: 1
+44:668  0:000    6. %p: 'HPET8', 'HPET', Rev: -784536841, Len: 1
+44:668  0:000    7. %p: 'SSDT', 'SSDT', Rev: -784536841, Len: 1
+44:668  0:000    8. %p: 'UEFIB', 'UEFI', Rev: -784536841, Len: 1
+44:668  0:000    9. %p: 'SSDT}', 'SSDT', Rev: -784536841, Len: 2
+44:668  0:000    10. %p: 'ASF! ', 'ASF!', Rev: -784536841, Len: 32
+44:668  0:000    11. %p: 'SSDT”', 'SSDT', Rev: -784536841, Len: 2
+44:668  0:000    12. %p: 'SSDTt', 'SSDT', Rev: -784536841, Len: 2
+44:668  0:000    13. %p: 'TPM24', 'TPM2', Rev: -784536841, Len: 3
+44:668  0:000    14. %p: 'SSDTA', 'SSDT', Rev: -784536841, Len: 1
+44:668  0:000    15. %p: 'SSDTí7', 'SSDT', Rev: -784536841, Len: 2
+44:668  0:000    16. %p: 'SSDT”', 'SSDT', Rev: -784536841, Len: 2
+44:668  0:000    17. %p: 'PCCTn', 'PCCT', Rev: -784536841, Len: 5
+44:668  0:000    18. %p: 'SSDTÄ
+', 'SSDT', Rev: -784536841, Len: 2
+44:668  0:000    19. %p: 'SSDT}f', 'SSDT', Rev: -784536841, Len: 2
+44:668  0:000    20. %p: 'BGRT8', 'BGRT', Rev: -784536841, Len: 1
+44:668  0:000    21. %p: 'MSDMU', 'MSDM', Rev: -784536841, Len: 3
+44:668  0:000    Tables in Rsdt: 22
+44:668  0:000    0. %p: 'FACP„', 'FACP', Rev: -784536841, Len: 2
+44:668  0:000        (Dsdt: D971B210, Facs: DA411F40)
+44:668  0:000        %p: 'DSDTY”', 'DSDT', Rev: -784536985, Len: 2
+44:670  0:001        %p: 'FACS@', Ver: -784536821, Len: 0
+44:670  0:000    1. %p: 'APIC„', 'APIC', Rev: -784536841, Len: 3
+44:670  0:000    2. %p: 'FPDTD', 'FPDT', Rev: -784536841, Len: 1
+44:670  0:000    3. %p: 'FIDTœ', 'FIDT', Rev: -784536841, Len: 1
+44:670  0:000    4. %p: 'ECDTÁ', 'ECDT', Rev: -784536841, Len: 1
+44:670  0:000    5. %p: 'MCFG<', 'MCFG', Rev: -784536841, Len: 1
+44:670  0:000    6. %p: 'HPET8', 'HPET', Rev: -784536841, Len: 1
+44:670  0:000    7. %p: 'SSDT', 'SSDT', Rev: -784536841, Len: 1
+44:670  0:000    8. %p: 'UEFIB', 'UEFI', Rev: -784536841, Len: 1
+44:670  0:000    9. %p: 'SSDT}', 'SSDT', Rev: -784536841, Len: 2
+44:670  0:000    10. %p: 'ASF! ', 'ASF!', Rev: -784536841, Len: 32
+44:670  0:000    11. %p: 'SSDT”', 'SSDT', Rev: -784536841, Len: 2
+44:670  0:000    12. %p: 'SSDTt', 'SSDT', Rev: -784536841, Len: 2
+44:670  0:000    13. %p: 'TPM24', 'TPM2', Rev: -784536841, Len: 3
+44:670  0:000    14. %p: 'SSDTA', 'SSDT', Rev: -784536841, Len: 1
+44:670  0:000    15. %p: 'SSDTí7', 'SSDT', Rev: -784536841, Len: 2
+44:670  0:000    16. %p: 'SSDT”', 'SSDT', Rev: -784536841, Len: 2
+44:670  0:000    17. %p: 'PCCTn', 'PCCT', Rev: -784536841, Len: 5
+44:670  0:000    18. %p: 'SSDTÄ
+', 'SSDT', Rev: -784536841, Len: 2
+44:670  0:000    19. %p: 'SSDT}f', 'SSDT', Rev: -784536841, Len: 2
+44:670  0:000    20. %p: 'BGRT8', 'BGRT', Rev: -784536841, Len: 1
+44:670  0:000    21. %p: 'MSDMU', 'MSDM', Rev: -784536841, Len: 3
